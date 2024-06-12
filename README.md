@@ -1,2 +1,4 @@
-# openaiapi
-openai api with python &amp; node.js
+# 파이썬과 자바스크립트로 배우는 OpenAI 프로그래밍 (제이펍)
+
+이 책은 **파이썬과 자바스크립트로 배우는 OpenAI 프로그래밍(제이펍)**의 실습 샘플 코드를 제공하는 저장소입니다.
+
